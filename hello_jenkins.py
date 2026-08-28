@@ -2,6 +2,7 @@ import os
 import platform
 from datetime import datetime
 def main():
+    print("Welcome to jenkins and docker setup")
     print("=" * 60)
     print("JENKINS PYTHON CI TEST")
     print("=" * 60)
