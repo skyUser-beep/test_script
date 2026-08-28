@@ -14,5 +14,6 @@ def main():
     print(f"Run URL        : {os.getenv('RUN_DISPLAY_URL', 'Not available')}")
     print(f"Time           : {datetime.now()}")
     print("\nJenkins is running this Python script successfully!")
+    print("The jenkins and github is working fine")
 if __name__ == "__main__":
     main()
