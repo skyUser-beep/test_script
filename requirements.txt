@@ -1,3 +1,1 @@
-platform
-datetime
-hello_jenkins
+# No external dependencies
